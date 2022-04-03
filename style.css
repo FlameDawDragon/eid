@@ -1,0 +1,16 @@
+#body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNLTrUC-5St-lRhPN-tVJD8jPw0-88G-11w&usqp=CAU");
+}
+
+#btn{
+    background-image:url("2.jpg");
+    margin-left: 500px;
+    margin-top: 250px;
+    height: 100px;
+    width: 100px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
